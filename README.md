@@ -53,11 +53,11 @@ Aqui você vai encontrar meus projetos de estudo e prática em Java, Spring e ou
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarceloJustin&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&theme=tokyonight" />
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloJustin&theme=tokyonight" />
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloJustin&theme=tokyonight" />
 </p>
 
 ---

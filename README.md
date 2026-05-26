@@ -55,22 +55,9 @@ Aqui você vai encontrar meus projetos de estudo e prática em Java, Spring e ou
 
 ## 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarceloJustin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJustin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloJustin&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&theme=tokyonight" />
 </p>
 
 ---

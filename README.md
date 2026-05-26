@@ -57,7 +57,7 @@ Aqui você vai encontrar meus projetos de estudo e prática em Java, Spring e ou
 
 ![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloJustin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameMarceloJustin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&theme=radical)
 
 ---
 

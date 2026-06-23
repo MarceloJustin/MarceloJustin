@@ -1,13 +1,11 @@
-# Olá 👋, eu sou o Marcelo. Sejam bem-vindos ao meu GitHub!
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📚 Atualmente cursando Engenharia de Software  
-💻 Focado em desenvolvimento backend com Java e Spring Boot  
-🚀 Buscando minha primeira oportunidade como desenvolvedor backend, com foco em boas práticas de código, arquitetura de software e integração com bancos de dados relacionais e não relacionais.
+# 👋 Olá, eu sou o Marcelo Justin
 
-Aqui você encontrará meu portfólio de projetos acadêmicos e pessoais, desenvolvidos em Java, Spring Boot, JPA/JDBC e JavaFX, que demonstram minha evolução prática em APIs REST, persistência de dados e construção de aplicações completas.
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Software.
 
----
+Sou apaixonado pelo desenvolvimento **Backend** com **Java** e **Spring Boot**, criando APIs REST com foco em boas práticas, arquitetura em camadas, testes automatizados e integração contínua.
+
+No meu dia a dia utilizo **IntelliJ IDEA**, **Docker**, **GitHub Actions**, **Swagger/OpenAPI**, **JUnit**, **Mockito** e **Claude Code** como ferramenta de apoio para produtividade, documentação e revisão de código.
 
 ## 🌐 Onde me encontrar
 
@@ -25,111 +23,103 @@ Aqui você encontrará meu portfólio de projetos acadêmicos e pessoais, desenv
 ## 🛠️ Tecnologias
 
 ### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![WEKA](https://img.shields.io/badge/Weka-FFB300?style=for-the-badge&logo=apache&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
 ### Ferramentas
-![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Scene Builder](https://img.shields.io/badge/Scene%20Builder-3776AB?style=for-the-badge&logo=java&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI_Assisted-7C3AED?style=for-the-badge)
 
 ---
 
-## 📊 Estatísticas
+## ⭐ Projeto em Destaque
 
-<p align="left">
-  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloJustin&theme=tokyonight" />
-  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloJustin&theme=tokyonight" />
+### 🍔 [Delivery Management API](https://github.com/MarceloJustin/delivery-management-api)
+
+API REST desenvolvida em **Java 21** e **Spring Boot**, aplicando arquitetura em camadas, DTO Pattern, Spring Data JPA, PostgreSQL, Docker, testes automatizados, documentação com Swagger/OpenAPI e CI com GitHub Actions. O projeto simula um sistema completo de gerenciamento de entregas e continua evoluindo com novas funcionalidades, como **Spring Security** e **JWT**.
+
+---
+
+## 🚀 Projetos Spring Boot
+
+### 🍔 [Delivery Management API](https://github.com/MarceloJustin/delivery-management-api)
+
+### 📦 [Sistema de Gestão de Produtos](https://github.com/MarceloJustin/gestao-de-produtos-springboot-springdata-jpa)
+
+### 🛒 [Workshop Spring Boot + PostgreSQL](https://github.com/MarceloJustin/workshop-springboot3-jpa)
+
+### 🍃 [Workshop Spring Boot + MongoDB](https://github.com/MarceloJustin/workshop-spring-boot-mongodb)
+
+---
+
+## ☕ Projetos Java
+
+### 🌦 [Sistema de Informações Climáticas](https://github.com/MarceloJustin/sistema-de-informacoes-climaticas-em-temporeal)
+
+### 🛡 [Sistema de Detecção de Fraudes](https://github.com/MarceloJustin/deteccao-fraude-bancaria-weka)
+
+### 🔐 [Gerador de Senhas Seguras](https://github.com/MarceloJustin/gerador-de-senhas-seguras)
+
+---
+
+## 🖥 Projetos JavaFX
+
+### 📦 [Gestão de Produtos JavaFX](https://github.com/MarceloJustin/gestao-de-produtos-jdbc-javafx)
+
+### 🌐 [Mini Navegador Web](https://github.com/MarceloJustin/mini-navegador-web-javafx)
+
+### 📝 [Editor de Texto](https://github.com/MarceloJustin/editor-de-texto-basico-javafx)
+
+### 🛒 [Lista de Compras](https://github.com/MarceloJustin/lista-de-compras-javafx)
+
+### 🕒 [Relógio Digital](https://github.com/MarceloJustin/relogio-digital)
+
+### 🧩 [Workshop JavaFX + JDBC](https://github.com/MarceloJustin/workshop-javafx-jdbc)
+
+---
+
+## 🎮 Projetos Acadêmicos
+
+### ♟ [Chess System](https://github.com/MarceloJustin/chess-system-java)
+
+### 🎯 [Jogo da Forca](https://github.com/MarceloJustin/jogo-da-forca-java)
+
+---
+
+## 📚 Atualmente estudando
+
+- Spring Security
+- JWT
+- Kubernetes
+- AWS
+- Microsserviços
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=MarceloJustin&theme=tokyonight&hide_border=true"/>
+  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## ⭐ Projetos em Destaque
+## 🤝 Vamos nos conectar
 
-### [🍔 Delivery Management API (Spring Boot + PostgreSQL)](https://github.com/MarceloJustin/delivery-management-api)
-**Descrição:** API REST para gerenciamento de entregas desenvolvida com Java, Spring Boot, Spring Data JPA, Hibernate e PostgreSQL. Implementa operações CRUD para clientes, restaurantes, produtos e pedidos, utilizando DTOs, relacionamentos entre entidades, regras de negócio, cálculo de frete e documentação com Swagger/OpenAPI.                 
-**Situação:**  🚧 Em desenvolvimento            
+Se você gostou dos meus projetos, deixe uma ⭐ nos repositórios.
 
----
-
-## 📂 Projetos de Estudo e Prática
-
-### [Sistema de gestão de produtos Spring Boot/Spring Data JPA](https://github.com/MarceloJustin/gestao-de-produtos-springboot-springdata-jpa)
-**Descrição:** Aplicação backend em Spring Boot com persistência via JPA/SQLite, oferecendo endpoints para cadastro, atualização, exclusão e consultas de produtos, integrados a um cliente web que simula requisições frontend.                 
-
----
-
-### [Workshop Spring Boot/PostGreSQL/JPA](https://github.com/MarceloJustin/workshop-springboot3-jpa)
-**Descrição:** API REST em Spring Boot + JPA + PostgreSQL para gerenciar usuários, pedidos, produtos e categorias, simulando um sistema de e‑commerce com tratamento de exceções e perfis de configuração.           
-
----
-
-### [Workshop Spring Boot/MongoDB](https://github.com/MarceloJustin/workshop-spring-boot-mongodb)
-**Descrição:** API REST construída com Spring Boot e MongoDB para gerenciar usuários e posts, organizada em camadas de domínio, serviços e recursos.               
-
----
-
-### [Sistema de Detecção de Fraude Bancária com Weka](https://github.com/MarceloJustin/deteccao-fraude-bancaria-weka)
-**Descrição:** Implementação em Java de um modelo de classificação para detecção de transações fraudulentas utilizando a biblioteca Weka. O projeto define atributos de transações (valor e origem) e treina uma árvore de decisão J48 para prever se uma transação é fraude ou não.                 
-
----
-
-### [Sistema de informações climáticas em tempo real](https://github.com/MarceloJustin/sistema-de-informacoes-climaticas-em-temporeal)
-**Descrição:** Aplicação Java que consome a WeatherAPI via HttpClient, processa JSON com org.json e exibe informações meteorológicas completas no console, com tratamento de erros e boas práticas de segurança.                 
-
----
-
-### [Sistema gerador de senhas seguras](https://github.com/MarceloJustin/gerador-de-senhas-seguras)
-**Descrição:** Aplicação Java que gera senhas seguras com SecureRandom, oferecendo tanto uma versão console quanto uma interface gráfica em JavaFX para interação do usuário.                 
-
----
-
-### [Sistema de gestão de produtos JavaFX/JDBC](https://github.com/MarceloJustin/gestao-de-produtos-jdbc-javafx)
-**Descrição:** Aplicativo desktop em JavaFX para cadastro, atualização e exclusão de produtos, com persistência em banco SQLite via JDBC.           
-
----
-
-### [Mini Navegador Web JavaFX](https://github.com/MarceloJustin/mini-navegador-web-javafx)
-**Descrição:** Aplicativo desktop em JavaFX que funciona como navegador simples, com campo de URL e renderização de páginas via WebView.                  
-
----
-
-### [Lista de Compras JavaFX](https://github.com/MarceloJustin/lista-de-compras-javafx)
-**Descrição:** Aplicativo desktop em Java com JavaFX para gerenciar uma lista de compras. Permite adicionar itens, visualizar e exportar para arquivo .txt.          
-
----
-
-### [Jogo da Forca](https://github.com/MarceloJustin/jogo-da-forca-java)
-**Descrição:** Jogo da forca em Java, rodando via terminal, que sorteia palavras e permite ao usuário adivinhar letra por letra até descobrir ou esgotar as tentativas.            
-
----
-
-### [Jogo de Xadrez](https://github.com/MarceloJustin/chess-system-java)
-**Descrição:** Jogo de xadrez em Java, rodando via terminal, com arquitetura modular que separa lógica de tabuleiro e regras específicas das peças.             
-
----
-
-### [Workshop JavaFX/MySQL/JDBC](https://github.com/MarceloJustin/workshop-javafx-jdbc)
-**Descrição:** Aplicação JavaFX + JDBC + MySQL para gerenciar vendedores e departamentos, com interface gráfica, camada de serviços e persistência estruturada em DAOs.                                
-
----
-
-### [Relógio digital em JavaFX](https://github.com/MarceloJustin/relogio-digital)
-**Descrição:** Aplicação JavaFX que implementa um relógio digital em tempo real, usando Timeline e KeyFrames para atualização contínua da hora.                               
-
----
-
-### [Editor de Texto Básico em JavaFX](https://github.com/MarceloJustin/editor-de-texto-basico-javafx)
-**Descrição:** Aplicação gráfica desenvolvida em JavaFX que permite edição e salvamento de arquivos de texto. O projeto demonstra conceitos fundamentais de desenvolvimento de interfaces gráficas em Java.                 
-
----
-
-⭐ Se você gostar dos meus projetos, deixe uma estrela nos repositórios.  
-🤝 Aberto a novas ideias, colaborações e projetos interessantes  
+Estou aberto a oportunidades como **Desenvolvedor Java Backend Júnior** e sempre disposto a aprender, colaborar e evoluir profissionalmente.

@@ -49,7 +49,7 @@ No meu dia a dia utilizo **IntelliJ IDEA**, **Docker**, **GitHub Actions**, **Sw
 
 ### 🍔 [Delivery Management API](https://github.com/MarceloJustin/delivery-management-api)
 
-API REST desenvolvida em **Java 21** e **Spring Boot**, aplicando arquitetura em camadas, DTO Pattern, Spring Data JPA, PostgreSQL, Docker, testes automatizados, documentação com Swagger/OpenAPI e CI com GitHub Actions. O projeto simula um sistema completo de gerenciamento de entregas e continua evoluindo com novas funcionalidades, como **Spring Security** e **JWT**.
+API REST desenvolvida em Java 21 e Spring Boot, aplicando arquitetura em camadas, DTO Pattern, autenticação JWT com Spring Security, Spring Data JPA, PostgreSQL, Docker, testes automatizados com 98% de cobertura, documentação com Swagger/OpenAPI e CI com GitHub Actions. O projeto simula um sistema completo de gerenciamento de entregas e continua evoluindo com novas funcionalidades como Refresh Token, versionamento de banco com Flyway e deploy em cloud. 
 
 ---
 

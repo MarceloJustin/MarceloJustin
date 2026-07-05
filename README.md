@@ -3,9 +3,13 @@
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Software.
 
-Sou apaixonado pelo desenvolvimento **Backend** com **Java** e **Spring Boot**, criando APIs REST com foco em boas práticas, arquitetura em camadas, testes automatizados e integração contínua.
+💻 Desenvolvedor de Software com foco em Backend e APIs REST.
 
-No meu dia a dia utilizo **IntelliJ IDEA**, **Docker**, **GitHub Actions**, **Swagger/OpenAPI**, **JUnit**, **Mockito** e **Claude Code** como ferramenta de apoio para produtividade, documentação e revisão de código.
+☕ Principal experiência com Java e Spring Boot, aplicando boas práticas, arquitetura em camadas, testes automatizados e integração contínua.
+
+🛠️ Utilizo IntelliJ IDEA, Docker, PostgreSQL, GitHub Actions, Swagger/OpenAPI, JUnit, Mockito e ferramentas de IA para desenvolvimento e produtividade.
+
+🚀 Apaixonado por tecnologia, aprendizado contínuo e engenharia de software.
 
 ## 🌐 Onde me encontrar
 

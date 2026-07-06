@@ -117,7 +117,7 @@ API REST desenvolvida em Java 21 e Spring Boot, aplicando arquitetura em camadas
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=MarceloJustin&theme=tokyonight&hide_border=true"/>
-  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img width="41.5%" src="https://github-readme-stats-marcelo.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

@@ -1,5 +1,4 @@
-
-# 👋 Olá, eu sou o Marcelo Justin
+👋 Olá, eu sou o Marcelo Justin
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Software.
 
@@ -116,7 +115,7 @@ API REST desenvolvida em Java 21 e Spring Boot, aplicando arquitetura em camadas
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=MarceloJustin&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-marcelo.vercel.app/api?username=MarceloJustin&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="41.5%" src="https://github-readme-stats-marcelo.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 

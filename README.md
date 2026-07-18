@@ -52,7 +52,7 @@
 
 ### 🍔 [Delivery Management API](https://github.com/MarceloJustin/delivery-management-api)
 
-API REST desenvolvida em Java 21 e Spring Boot, aplicando arquitetura em camadas, DTO Pattern, autenticação JWT com Spring Security, Spring Data JPA, PostgreSQL, Docker, testes automatizados com 98% de cobertura, documentação com Swagger/OpenAPI e CI com GitHub Actions. O projeto simula um sistema completo de gerenciamento de entregas e continua evoluindo com novas funcionalidades como Refresh Token, versionamento de banco com Flyway e deploy em cloud. 
+API REST desenvolvida em Java 21 e Spring Boot, aplicando arquitetura em camadas (Controller → Service → Repository), DTO Pattern com separação entre request e response, e Mapper dedicado para conversão de Entities. Autenticação stateless com JWT e Refresh Token via Spring Security, incluindo autorização por propriedade de recurso — cada cliente só acessa e altera os próprios pedidos e perfil, nunca dados de outro cliente. Persistência com Spring Data JPA e PostgreSQL, testes automatizados (JUnit 5, Mockito, MockMvc) com cobertura acompanhada via JaCoCo, documentação interativa com Swagger/OpenAPI e collection Postman, containerização com Docker e integração contínua com GitHub Actions. Já publicada em produção no Render (Web Service em Docker + PostgreSQL gerenciado), e continua evoluindo com migração dos mappers manuais para MapStruct e observabilidade.
 
 ---
 

@@ -115,7 +115,7 @@ API REST desenvolvida em Java 21 e Spring Boot, aplicando arquitetura em camadas
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-marcelo.vercel.app/api?username=MarceloJustin&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-marcelo.vercel.app/api?username=MarceloJustin&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
   <img width="41.5%" src="https://github-readme-stats-marcelo.vercel.app/api/top-langs/?username=MarceloJustin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
